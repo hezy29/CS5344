@@ -3,4 +3,4 @@
 # slides
 *.pptx
 # data
-*.json
+*.json*
