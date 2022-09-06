@@ -11,3 +11,7 @@ Open source Amazon product dataset of musical instruments (reviews & metadata). 
 ```shell
 python3 main.py [PATH: metadata] [PATH: reviews] [PATH: outfile]
 ```
+## Usage
+- Download data and put them in the (sub)folder where `main.py` locates. 
+  - Data can be either original `.json.gz` or unzipped `.json`
+- Run command and set `outfile` the path to save output files
