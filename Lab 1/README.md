@@ -7,7 +7,6 @@ Open source Amazon product dataset of musical instruments (reviews & metadata). 
 ## Env
 - `Python 3.10.6`
 - `PySpark 3.3.0`
-- 
 ## Command
 ```shell
 python3 main.py [PATH: metadata] [PATH: reviews] [PATH: outfile]
