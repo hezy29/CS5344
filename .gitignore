@@ -5,3 +5,5 @@
 *.pptx
 # data
 *.json*
+# .zip
+*.zip
