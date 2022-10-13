@@ -6,5 +6,7 @@
 # data
 *.json*
 datafiles
+processed
+spark
 # .zip
 *.zip
